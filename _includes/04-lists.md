@@ -1,9 +1,4 @@
-1.  Item1
-2.  Item2
-3.  Item3
-    1.  Item3a
-    2.  Item3b
+*This text will be italic*
 
-*  item4
-*  item5
+**This text will be bold**
 
